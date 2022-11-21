@@ -1,0 +1,20 @@
+.toolbar-conteiner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #3f51b5;
+  color: white;
+  font-weight: 600;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+
+    .auth-conteiner{
+      display: flex;
+      gap: 10px;
+    }
+}
